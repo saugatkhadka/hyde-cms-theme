@@ -1,6 +1,6 @@
 # Victor Hugo CMS Template
 <!-- Markdown snippet -->
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/hyde-cms-theme)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/saugatkhadka/hyde-cms-theme)
 
 ![hyde theme image](https://s3-us-west-1.amazonaws.com/publis-brian-images/hyde.png)
 
